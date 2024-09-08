@@ -12,13 +12,13 @@
 
 - Developed the AIFact website, featuring links to various AI tools. I was responsible for creating a clean, user-friendly interface to provide easy access to AI resources. <a href="faisal163.github.io/aifact/index.html" target="_blank">AIFact</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://www.mfaisal.me" target="_blank">mfaisal.me</a>
+- 👨‍💻 All of my projects are available at <a href="https://www.muhammadfaisal.me" target="_blank">muhammadfaisal.me</a>
 
 - 🌱 I’m currently learning **ASP.Net**
  
 - 📫 How to reach me **mfs0300@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.mfaisal.me" target="_blank">mfaisal.me</a>
+- 📄 Know about my experiences <a href="https://www.muhammadfaisal.me" target="_blank">muhammadfaisal.me</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
