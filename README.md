@@ -6,10 +6,9 @@
 
 <h3 align="left">Work Experience:</h3>
 
-- Worked at Allied Tajar, a company specializing in ERP software development, where I contributed to the development of the company's website and assisted in software projects. [Allied Tajar](alliedtajar.com)
+- Worked at Allied Tajar, a company specializing in ERP software development, where I contributed to the development of the company's website and assisted in software projects. <a href="https://www.alliedtajar.com" target="blank">Allied Tajar</a>
 
-
-- I built a job-finding website that allows users to search for jobs and also rent houses. I was responsible for creating an intuitive and user-friendly interface. [DIHP](di-hp.com)
+- I built a job-finding website that allows users to search for jobs and also rent houses. I was responsible for creating an intuitive and user-friendly interface.<a href="https://www.di-hp.com" target="blank">DIHP</a>
 
 - Developed the AIFact website, featuring links to various AI tools. I was responsible for creating a clean, user-friendly interface to provide easy access to AI resources. [AIFact](faisal163.github.io/aifact/index.html)
 
