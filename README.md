@@ -1,5 +1,4 @@
-<div align="center"> <img src="https://github.com/faisal163/faisal163/blob/main/banner.png" alt="Banner Image"> </div>
-
+![logo](https://github.com/faisal163/faisal163/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Faisal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
