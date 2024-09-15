@@ -8,7 +8,7 @@
 
 - Worked at Allied Tajar, a company specializing in ERP software development, where I contributed to the development of the company's website and assisted in software projects. <a href="https://www.alliedtajar.com" target="_blank">Allied Tajar</a>
 
-- Developed the website for Doner Kebab Albir, a restaurant, showcasing company details and the full menu. I was responsible for designing a user-friendly interface that allows customers to easily browse the menu and learn about the restaurant, <a href="https://donerkebabalbir.com" target="_blank"> Doner Kebab Albir</a>
+- Developed the website for Doner Kebab Albir, a restaurant, showcasing company details and the full menu. I was responsible for designing a user-friendly interface that allows customers to easily browse the menu and learn about the restaurant. <a href="https://donerkebabalbir.com" target="_blank"> Doner Kebab Albir</a>
 
 - I built a job-finding website that allows users to search for jobs and also rent houses. I was responsible for creating an intuitive and user-friendly interface. <a href="https://www.di-hp.com" target="_blank">DIHP</a>
 
